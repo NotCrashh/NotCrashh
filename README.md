@@ -1,4 +1,11 @@
-### Hi there 👋
+# Sam Gustafson
+Currently working on @VersiDevelopment
+
+## Skills and Experience
+• React Native
+• Flutter
+• Java, JS, Python
+
 
 <!--
 **NotCrashh/NotCrashh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
