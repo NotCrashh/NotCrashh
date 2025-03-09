@@ -1,6 +1,6 @@
 # 👋 Sam Gustafson
 
-**`Aspiring Software Engineer`**
+**`Software Engineer`**
 
 Co-Founded [@VersiDrives](https://github.com/VersiDrives) for automotive enthusiests. With Versi, users will be able to find upcoming car shows on the map. Share your favorite car shows and photos with friends and fellow enthusiasts on Versi and other popular social media platforms. Connect with other users, share your experiences, and stay up-to-date with the latest news and trends in the automotive world. Created using Flutter in December of 2021.
 
